@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idarkpearl&show_icons=true&locale=en" alt="idarkpearl" /></p>
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/315pxzxadu5wsef2qw5kfuq4vuzy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=315pxzxadu5wsef2qw5kfuq4vuzy&count=10&unique=false" alt="Spotify recently played"  />
   </a>
